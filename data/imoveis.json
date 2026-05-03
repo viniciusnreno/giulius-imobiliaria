@@ -1,0 +1,131 @@
+[
+  {
+    "id": "1",
+    "titulo": "Casa em Condomínio Fechado 2",
+    "descricao": "Linda casa em condomínio fechado com 3 suítes, piscina, churrasqueira e área gourmet. Segurança 24h, portaria, playground e academia. Excelente localização próxima a escolas e comércio.",
+    "tipo": "venda",
+    "categoria": "casa",
+    "preco": 850000,
+    "area": 220,
+    "quartos": 3,
+    "banheiros": 4,
+    "vagas": 2,
+    "endereco": "Rua das Orquídeas, 145",
+    "bairro": "Jardim Europa",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "destaque": true,
+    "imagens": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "criadoEm": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "titulo": "Apartamento Alto Padrão",
+    "descricao": "Apartamento moderno de alto padrão com vista para o mar. Acabamento de luxo, varanda gourmet, 2 suítes com closet, sala ampla. Edifício com spa, piscina, academia e concierge.",
+    "tipo": "venda",
+    "categoria": "apartamento",
+    "preco": 1200000,
+    "area": 145,
+    "quartos": 2,
+    "banheiros": 3,
+    "vagas": 2,
+    "endereco": "Av. Beira Mar, 890",
+    "bairro": "Beira Mar Norte",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "destaque": true,
+    "imagens": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80"
+    ],
+    "criadoEm": "2024-01-20T10:00:00Z"
+  },
+  {
+    "id": "3",
+    "titulo": "Sobrado Moderno 4 Quartos",
+    "descricao": "Sobrado recém construído com design contemporâneo. 4 quartos sendo 2 suítes, escritório, sala de jantar e estar integrados, cozinha americana equipada e área de lazer com piscina.",
+    "tipo": "venda",
+    "categoria": "sobrado",
+    "preco": 680000,
+    "area": 280,
+    "quartos": 4,
+    "banheiros": 3,
+    "vagas": 3,
+    "endereco": "Rua das Palmeiras, 78",
+    "bairro": "Vila Nova",
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "destaque": true,
+    "imagens": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80"
+    ],
+    "criadoEm": "2024-02-01T10:00:00Z"
+  },
+  {
+    "id": "4",
+    "titulo": "Apartamento 2 Quartos para Alugar",
+    "descricao": "Apartamento bem localizado com 2 quartos, sala, cozinha americana, banheiro social e área de serviço. Prédio com portaria, elevador e garagem coberta. Próximo ao metrô.",
+    "tipo": "locacao",
+    "categoria": "apartamento",
+    "preco": 2800,
+    "area": 72,
+    "quartos": 2,
+    "banheiros": 1,
+    "vagas": 1,
+    "endereco": "Rua Haddock Lobo, 1234",
+    "bairro": "Cerqueira César",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "destaque": false,
+    "imagens": [
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80"
+    ],
+    "criadoEm": "2024-02-10T10:00:00Z"
+  },
+  {
+    "id": "5",
+    "titulo": "Studio Moderno Centro",
+    "descricao": "Studio totalmente reformado no centro da cidade. Mobiliado e equipado, ideal para profissionais. Varanda privativa, academia no prédio, coworking. A metros do metrô.",
+    "tipo": "locacao",
+    "categoria": "studio",
+    "preco": 1900,
+    "area": 38,
+    "quartos": 1,
+    "banheiros": 1,
+    "vagas": 0,
+    "endereco": "Rua da Consolação, 567",
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "destaque": false,
+    "imagens": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "criadoEm": "2024-02-15T10:00:00Z"
+  },
+  {
+    "id": "6",
+    "titulo": "Terreno em Condomínio",
+    "descricao": "Excelente terreno plano em condomínio fechado de alto padrão. Infraestrutura completa, ruas pavimentadas, rede elétrica subterrânea, esgoto tratado e fibra ótica.",
+    "tipo": "venda",
+    "categoria": "terreno",
+    "preco": 320000,
+    "area": 500,
+    "quartos": 0,
+    "banheiros": 0,
+    "vagas": 0,
+    "endereco": "Estrada Municipal, km 8",
+    "bairro": "Alphavile",
+    "cidade": "Barueri",
+    "estado": "SP",
+    "destaque": false,
+    "imagens": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80"
+    ],
+    "criadoEm": "2024-02-20T10:00:00Z"
+  }
+]
